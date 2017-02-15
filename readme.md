@@ -1,3 +1,5 @@
+Multiplatform admin tools for firebird sql database built with freepascal/lazarus ide and fblib library.
+
 compiled with
   freepascal 2.6.2 32bit
   lazarus 1.0.8
